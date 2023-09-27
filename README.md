@@ -16,6 +16,7 @@ Welcome to the MigraMinds project! This README provides an overview of our mobil
 ### Checklist
 - Upon signing up, users gain access to a checklist of tasks they should complete upon their arrival in Germany.
 - Users can view task details, find helpful links for more information, and mark tasks as accomplished.
+![Migraminds checklist image](https://github.com/brunna-monteiro/migra-minds/blob/master/app/assets/images/checklist.png?raw=true)
 
 ### Posts
 - Users can view posts created by other migrants.
