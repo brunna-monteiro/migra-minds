@@ -2,7 +2,7 @@
 
 Welcome to the MigraMinds project! This README provides an overview of our mobile web app for migrants in Germany. Here, you'll find information on the app's functionality, technologies used, and how to set it up.
 
-![Migraminds mockup image](https://github.com/brunna-monteiro/migra-minds/blob/app/assets/images/postsmockup.png?raw=true)
+![Migraminds mockup image](https://github.com/brunna-monteiro/migra-minds/blob/master/app/assets/images/postsmockup.png?raw=true)
 
 ## Table of Contents
 - [Features](#features)
@@ -24,13 +24,17 @@ Welcome to the MigraMinds project! This README provides an overview of our mobil
 ### Events
 - Users can browse events created by other users and create their own events.
 - Each event includes a description, location with an integrated map, and a list of attendees.
+![Migraminds events image](https://github.com/brunna-monteiro/migra-minds/blob/master/app/assets/images/events.png?raw=true)
+![Migraminds event location image](https://github.com/brunna-monteiro/migra-minds/blob/master/app/assets/images/event.png?raw=true)
 
 ### User Profile
 - Users have their own profile page where they can see their upcoming events and events they've joined.
 - They can also see the time left for each upcoming event.
+![Migraminds dashboard image](https://github.com/brunna-monteiro/migra-minds/blob/master/app/assets/images/dashboard.png?raw=true)
 
 ### Chat
 - Users can engage in real-time chat with other users using Action Cable and WebSocket.
+![Migraminds chat image](https://github.com/brunna-monteiro/migra-minds/blob/master/app/assets/images/chat.png?raw=true)
 
 ## Technologies Used
 
@@ -40,12 +44,11 @@ MigraMinds is built using the following technologies:
 - JavaScript ES6
 - Stimulus
 - Simple Form
-- Hotwire
 - Action Cable and WebSocket
 - Redis
 - HTML
 - CSS
-- SCSS
+- SASS
 - Bootstrap
 - Geocoding
 - Mapbox
@@ -85,31 +88,6 @@ rails s
 
 7. Visit `http://localhost:3000` in your web browser to access the app.
 
-## Deployment
-
-You can deploy MigraMinds to Heroku or any other hosting platform of your choice. Make sure to configure your environment variables and set up a production-ready database.
-
-For Heroku deployment, you can use the Heroku CLI:
-
-1. Create a Heroku app:
-```
-heroku create your-app-name
-```
-
-2. Push the code to Heroku:
-```
-git push heroku master
-```
-
-3. Migrate and seed the database on Heroku:
-```
-heroku run rails db:migrate db:seed
-```
-
-4. Open the deployed app in your browser:
-```
-heroku open
-```
 
 ## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
