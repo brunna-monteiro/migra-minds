@@ -2,7 +2,7 @@
 
 Welcome to the MigraMinds project! This README provides an overview of our mobile web app for migrants in Germany. Here, you'll find information on the app's functionality, technologies used, and how to set it up.
 
-![Migraminds mockup image](https://github.com/brunna-monteiro/migra-minds/app/assets/images/postsmockup.png?raw=true)
+![Migraminds mockup image](https://github.com/brunna-monteiro/migra-minds/blob/app/assets/images/postsmockup.png?raw=true)
 
 ## Table of Contents
 - [Features](#features)
