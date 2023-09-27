@@ -1,6 +1,8 @@
 # MigraMinds - A Mobile Web App for Migrants in Germany
 
-Welcome to the MigraMinds project! This README provides an overview of our mobile web app for migrants in Germany. Here, you'll find information on the app's functionality, technologies used, and how to set it up locally or deploy it to Heroku.
+Welcome to the MigraMinds project! This README provides an overview of our mobile web app for migrants in Germany. Here, you'll find information on the app's functionality, technologies used, and how to set it up.
+
+![Migraminds mockup image](https://github.com/brunna-monteiro/migra-minds/blob/assets/images/postsmockup.png?raw=true)
 
 ## Table of Contents
 - [Features](#features)
